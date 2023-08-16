@@ -30,7 +30,7 @@ You can see that all the letters are together. All the symbols are together and 
 
 # Hard Version (Step 2)
 
-When you've completed the easy version, you're ready to tackle the hard version. In the advanced version of this project the final password does not follow a pattern. So the example above might look like this:
+In the advanced version of this project the final password does not follow a pattern. So the example above might look like this:
 ```
 x$d24g*f9
 ```
